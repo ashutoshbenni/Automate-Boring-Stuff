@@ -4,6 +4,7 @@
 #			bs4
 #			requests
 #			Chrome browser
+#			selenium
 #			to install above use "pip2/pip3 install package_name"
 
 from selenium import webdriver
